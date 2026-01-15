@@ -7,6 +7,11 @@
   ╚═╝  ╚═╝  ╚═╝  ╚═╝     ╚═╝     ╚══════╝  ╚═════╝
                       白 河 愁
 ```
+# SnapPlus
+
+演示截图：
+
+![SnapPlus Demo](demo.png)
 
 # SnapPlus v1.0.0
 
