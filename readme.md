@@ -9,7 +9,7 @@
 ```
 # SnapPlus
 
-演示截图：
+Demo：
 
 ![SnapPlus Demo](demo.png)
 
